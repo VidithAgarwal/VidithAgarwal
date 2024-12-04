@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Vidith%20Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Vidith Agarwal" />
   </a>
   <a href="https://vidithagarwal1.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-white-rounded?style=flat-square&logo=web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
