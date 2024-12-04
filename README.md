@@ -154,5 +154,5 @@
 
 # ☁️ Cloud Certifications 
 
-   <img src="https://github.com/jenishk20/Certifications/blob/65051a0365190d9954eded281aacae57cefc6bb6/aws-certified-cloud-practitioner.png" alt="AWS Certified Developer – Associate" width="200"/>
+   <img src="https://github.com/VidithAgarwal/AWS-Certificates/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200"/>
 </p>
